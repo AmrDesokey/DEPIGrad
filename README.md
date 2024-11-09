@@ -1,1 +1,1 @@
-https://github.com/AmrDesokey/DEPIGrad/blob/49807d65e092525020fd71915cfbf473b08212b6/Shipping%20Dashboard.png
+![Manufacturing Dashboard](https://github.com/user-attachments/assets/e1bd2b74-a03d-436e-a5c7-9fbc344b2c80)
